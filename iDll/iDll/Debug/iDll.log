@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  stdafx.cpp
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  dllmain.cpp
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+E:\迅雷下载\VB.NET-Hook-SRC\iDll\iDll\dllmain.cpp(19,1): warning C4996: 'CorBindToRuntimeEx': This API has been deprecated. Refer to https://go.microsoft.com/fwlink/?LinkId=143720 for more details.
+C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um\mscoree.h(590): message : see declaration of 'CorBindToRuntimeEx'
+  iDll.cpp
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+dllmain.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  iDll.vcxproj -> E:\迅雷下载\VB.NET-Hook-SRC\iDll\iDll\..\..\HookTest\bin\Debug\iDll.dll
